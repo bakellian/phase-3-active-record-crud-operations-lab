@@ -8,6 +8,8 @@ gem "activerecord", "~> 6.1"
 # https://github.com/sinatra-activerecord/sinatra-activerecord
 gem "sinatra-activerecord"
 
+gem 'learn-co'
+
 # Run common tasks from the command line
 # https://github.com/ruby/rake
 gem "rake"
